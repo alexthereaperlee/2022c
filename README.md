@@ -6,7 +6,7 @@
 
 
 
-#week06金字塔
+# week06金字塔
 ```cpp
 #include <stdio.h>
 int main()
@@ -18,7 +18,9 @@ int main()
         printf("鷹架:%d樓 %d星\n", i, star);
     }
 }
-#week06星星
+```
+
+# week06星星
 ```cpp
 #include <stdio.h>
 int main()
@@ -35,7 +37,8 @@ int main()
         printf("鷹架:%d樓 %d星\n", i, star);
     }
 }
-#week06約分
+```
+# week06約分
 ```cpp
 #include <stdio.h>
 int main()
@@ -49,7 +52,8 @@ int main()
     }
     printf("找到ans:%d", ans);
 }
-#week06輾轉相除法
+```
+# week06輾轉相除法
 ```cpp
 #include <stdio.h>
 int main()
@@ -67,7 +71,8 @@ int main()
    }
    printf("中的是:%d", b);
 }
-#week06零迴圈
+```
+# week06零迴圈
 ```cpp
 #include <stdio.h>
 int main()
@@ -85,3 +90,4 @@ int main()
     if(999) printf("999成立\n");
     if("a==0") printf("不管什麼東西，幾乎都成立\n");
 }
+```
